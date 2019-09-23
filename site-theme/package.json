@@ -1,0 +1,14 @@
+{
+  "name": "site-theme",
+  "version": "1.0.0",
+  "main": "gatsby-config.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.15.20",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "dependencies": {
+    "gatsby-plugin-page-creator": "^2.1.21"
+  }
+}

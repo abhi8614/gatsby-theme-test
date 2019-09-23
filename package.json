@@ -1,0 +1,4 @@
+{
+    "private": true,
+    "workspaces": ["site-theme", "site-example-1", "site-example-2"]
+  }
